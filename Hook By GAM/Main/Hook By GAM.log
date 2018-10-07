@@ -1,0 +1,14 @@
+﻿  BitStream.cpp
+  HookedRakClient.cpp
+  d3drender.cpp
+  main.cpp
+  samp.cpp
+  Generating code
+  3 of 1071 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\Alex\Desktop\Hook\Main\detours.pdb'; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(modules.obj)' or at 'C:\Users\Alex\Desktop\Hook\Main\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\Alex\Desktop\Hook\Main\detours.pdb'; linking object as if no debug info
+  Hook By GAM.vcxproj -> C:\Users\Alex\Desktop\Hook\Main\Hook.asi
